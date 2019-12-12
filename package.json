@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/hyphaene/scriptifire#readme",
   "dependencies": {
-    "fs": "^0.0.1-security",
-    "fs-extra": "^7.0.0",
+    "fs": "^0.0.2",
+    "fs-extra": "^8.1.0",
     "global": "^4.3.2",
     "path": "^0.12.7"
   },
